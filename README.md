@@ -7,12 +7,12 @@ https://leetcode.com/u/Davidand1/
 
 Submissions This Week: 1
 
-Total Submissions: 19
+Total Submissions: 20
 
 Easy: 11
 cpp: 11
 
-Medium: 8
-cpp: 8
+Medium: 9
+cpp: 9
 
 Hard: 0
