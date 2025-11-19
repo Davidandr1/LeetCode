@@ -5,12 +5,12 @@ Here are my solutions to various LeetCode problems.
 Profile:
 https://leetcode.com/u/Davidand1/
 
-Submissions This Week: 1
+Submissions This Week: 3
 
-Total Submissions: 30
+Total Submissions: 33
 
-Easy: 16
-cpp: 16
+Easy: 19
+cpp: 19
 
 Medium: 14
 cpp: 14
